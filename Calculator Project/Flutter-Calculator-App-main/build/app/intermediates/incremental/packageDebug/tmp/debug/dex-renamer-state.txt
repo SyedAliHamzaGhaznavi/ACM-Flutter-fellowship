@@ -1,0 +1,4 @@
+#Wed Sep 27 21:43:27 PKT 2023
+base.0=C\:\\Users\\Laham\\Desktop\\Calculator Project\\Flutter-Calculator-App-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
